@@ -4,11 +4,11 @@ Este algoritmo realiza a previsão de uma pessoa ter a tendência de desenvolver
 ## arquivos
 
 ### tratamento
-***1_tratamento.ipynb**
+**1_tratamento.ipynb**
 - Abre o arquivo contendo os dados dos pacientes. Analisa informação por informação em busca de dados incondizentes que possam dificultar, fragilizar ou diminuir a eficácia do código, e trata os valores quando necessário.
 
-***2_preprocessamento_treino_testes.ipynb**
+**2_preprocessamento_treino_testes.ipynb**
 - Pré-processa os dados. Separa os dados de previsores/alvo de diferentes formas e testa em aproximadamente 10 modelos de deep learning de aprendizado supervisionado (regressão), buscando o melhor modelo possível com o melhor formato de dados. Ao final, exporta os dados tratados.
 
-***3_simulador.ipynb**
+**3_simulador.ipynb**
 - Através do tratamento e análise dos códigos anteriores, esse código interpreta informações de novos pacientes fictícios e informa a presença da tendência ou não de desenvolvimento de doença cardíaca com (baseando-se na tabela de dados disponível) 87.13% de acurácia.
