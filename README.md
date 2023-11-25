@@ -13,3 +13,9 @@
 
 **3_simulador.ipynb**
 - Através do tratamento e análise dos códigos anteriores, esse código interpreta informações de novos pacientes fictícios e informa a presença da tendência ou não de desenvolvimento de doença cardíaca com (baseando-se na tabela de dados disponível) 87.13% de acurácia.
+
+**heart.csv**
+- Dados para análise: informações médicas sobre pacientes testados sobre doenças cardíacas
+
+**heart_tratado.csv**
+- heart.csv depois da análise e tratamento de dados incondizentes e prejudiciais
