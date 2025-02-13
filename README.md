@@ -12,7 +12,7 @@
 - Pré-processa os dados. Separa os dados de previsores/alvo de diferentes formas e testa em aproximadamente 10 modelos de deep learning de aprendizado supervisionado (classificação), buscando o melhor modelo possível com o melhor formato de dados. Ao final, exporta os dados tratados.
 
 **3_simulador.ipynb**
-- Através do tratamento e análise dos códigos anteriores, esse código interpreta informações de novos pacientes fictícios e informa a presença da tendência ou não de desenvolvimento de doença cardíaca com (baseando-se na tabela de dados disponível) 87.13% de acurácia.
+- Através do tratamento e análise dos códigos anteriores, esse código interpreta informações de novos pacientes fictícios e informa a presença da tendência ou não de desenvolvimento de doença cardíaca com 87.13% de acurácia (baseando-se na tabela de dados disponível).
 
 **heart.csv**
 - Dados para análise: informações médicas sobre pacientes testados sobre doenças cardíacas
